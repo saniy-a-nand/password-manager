@@ -10,7 +10,7 @@ PassX is a **secure, simple, and user-friendly password manager** that helps use
 - **Client-Side Storage**: Uses browser `localStorage` for persistence.
 - **Simple & Intuitive UI**: Easy-to-use interface for managing passwords.
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript
 - **Storage:** Local Storage API
 - **Development Tools:** VS Code, Git, GitHub
